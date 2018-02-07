@@ -7,6 +7,7 @@ class linear():
 
     def get_dataset(self):
         #get ur csv from https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+        #get train.csv
         pass
 
     def predict(self, inputs):

@@ -28,5 +28,6 @@ There is a famous ML dataset you've probably heard of called the iris dataset. I
 How? Do some data manipulation and train a 1 vs all classifier on each type of iris, and record the accuracy for each, resulting in 3 accuracy numbers. Which is the hardest to predict on, based on accuracy?
 (For each Iris class: Make a new copy of the data where the label is 1 if it is that class, and 0 if it is not. Train the Logistic Regression on this data. Record accuracy in accuracies.txt however you like)
 
+RULES: only numpy, matplotlib, pandas, and standard libraries. do not use sklearn/tf/anythinglikethat. Don't use pseudo inverses from numpy either. Use your best judgement, this is for your learning in the end.
 
 I'm aware this isn't a lot of direction, which is intentional. DM us if you have questions, don't copy things from online obviously and don't procrastinate too much. We'll message you with more details on submitting etc. and logstics and such. Again, sorry if things seem haphazard - this is our first time doing this, so bear with us. Enjoy! I've added some skeleton code.
