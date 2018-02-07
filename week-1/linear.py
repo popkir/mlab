@@ -1,3 +1,6 @@
+import numpy as np
+import pandas
+
 class linear():
     def __init__(self):
         pass
