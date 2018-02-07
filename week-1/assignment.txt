@@ -17,7 +17,6 @@ Your linear class should be able to fit using the normal equations as well (dire
 
 You should have a way to plot your loss each time you train (except the normal equations ofc), using matplotlib, and a way to save these charts. Details will be up to you, but the graph should be loss vs. steps of gradient descent.
 
-Experiment with different learning rates and batch sizes if you like, just get some plots and converge on the data.
+Experiment with different learning rates and batch sizes if you like, just get some plots and converge on the data, which we've provided for you.
 
 I'm aware this isn't a lot of direction, which is intentional. DM us if you have questions, don't copy things from online obviously and don't procrastinate too much. We'll message you with more details on submitting etc. and logstics and such. Again, sorry if things seem haphazard - this is our first time doing this, so bear with us. Enjoy! I've added some skeleton code.
-
