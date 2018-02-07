@@ -1,0 +1,23 @@
+hello!
+
+hope you liked the first lecture, bear with us as this is our first time doing the NMP.
+
+Assignment:
+Your deliverable will be in 2 files:
+logistic.py
+linear.py
+
+Both should contain classes that implement linear and logistic regression, with details as follows:
+Both classes should have a fit() function, which trains the model's parameters to optimize the loss.
+Both should be able to do batch gradient descent and stochastic gradient descent.
+
+Both classes should have a predict() function, which takes an input numpy vector "inputs", which is batch_size * # of inputs  and return a numpy vector "outputs". For logistic regression, there will be an arbitrary 
+
+Your linear class should be able to fit using the normal equations as well (directly solve using matrices instead of gradient descent). 
+
+You should have a way to plot your loss each time you train (except the normal equations ofc), using matplotlib, and a way to save these charts. Details will be up to you, but the graph should be loss vs. steps of gradient descent.
+
+Experiment with different learning rates and batch sizes if you like, just get some plots and converge on the data.
+
+I'm aware this isn't a lot of direction, which is intentional. DM us if you have questions, don't copy things from online obviously and don't procrastinate too much. We'll message you with more details on submitting etc. and logstics and such. Again, sorry if things seem haphazard - this is our first time doing this, so bear with us. Enjoy! I've added some skeleton code.
+
