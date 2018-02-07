@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 class Logistic():
 
     def __init__(self):
-        self.weights = #Numpy array of zeros
-        self.biases = #see above
+        self.weights = None #TODO: write
+        self.biases = None #TODO: write
         pass
 
     def logistic(self, z):
