@@ -13,7 +13,7 @@ Both should contain classes that implement linear and logistic regression, with 
 Both classes should have a fit() function, which trains the model's parameters to optimize the loss.
 Both should be able to do batch gradient descent and stochastic gradient descent.
 
-Both classes should have a predict() function, which takes an input numpy vector "inputs", which is batch_size * # of inputs  and return a numpy vector "outputs". For logistic regression, outputs will be a single scalar probability between 0 and 1, and linear regression should work with an arbitrary number of inputs and outputs.
+Both classes should have a predict() function, which takes an input numpy vector "inputs", which is batch_size * # of inputs  and return a numpy vector "outputs". For logistic regression, outputs will be a single scalar probability between 0 and 1, and linear regression should work with an arbitrary number of inputs.
 
 Your linear class should be able to fit using the normal equations as well (directly solve using matrices instead of gradient descent). 
 
