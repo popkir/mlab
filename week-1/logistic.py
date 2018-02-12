@@ -6,7 +6,6 @@ class Logistic():
 
     def __init__(self):
         self.weights = None #TODO: write
-        self.biases = None #TODO: write
         pass
 
     def logistic(self, z):
