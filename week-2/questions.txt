@@ -1,0 +1,47 @@
+QUESTIONS
+
+In your own words:
+
+1. The Kaggle scoring metric for this project is the ROC-AUC curve.
+    (a) What is ROC-AUC?
+
+
+    (b) How is ROC-AUC calculated?
+
+
+    (c) What advantages does it have over using accuracy as a metric?
+
+
+
+2. Overfitting
+    (a) What is overfitting?
+
+
+    (b) What is regularization?
+
+
+    (c) What is the main difference in L1 vs L2 norms in regression? What does L1 encourage, and what does this mean for the weights after optimization?
+
+
+    (d) What is the bias-variance tradeoff?
+
+
+
+3. Decision Trees
+    (a) How do decision trees work?
+
+
+    (b) What is an ensemble?
+
+
+    (c) What is a Random Forest?
+
+
+4. Cross-Validation
+    (a) What is cross-validation? What is the motivation behind it?
+
+
+    (b) What is K-Fold cross validation?
+
+
+

@@ -1,0 +1,19 @@
+hello!
+
+This week, we have a competition! You should be using all of the models we've gone over to make predictions on a dataset. In particular, this dataset is predicting whether someone will default on their credit card this month (its a binary classification task).
+
+The competition is hosted on kaggle.com at https://www.kaggle.com/t/52245ebe25174263897e2e3b3f3b9b66 .
+
+Write your code in your repo and evaluate it on kaggle (try their tutorial if you haven't used it before to get the hang of it). 
+Learn to use the scikit-learn library, and use the models:
+    Logistic Regression 
+    Logistic Regression with L1 and L2 regularization
+    Decision Trees
+    Random Forests
+    Optional: try SVM's. We'll go over them next week.
+
+to get your predictions. Eternal glory awaits whichever partner pair has the best ROC-AUC score by the end of the week. You must submit at least 5 submissions, which means you ought to start working earlier. Much of the work in this homework is working with data, addressing overfitting, and the such. 
+
+We also have a few conceptual questions in questions.txt that should be answered.
+
+
